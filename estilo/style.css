@@ -10,7 +10,7 @@
 * {
     margin: 0px;
     padding: 0px;
-    
+
 }
 
 html,
@@ -28,7 +28,7 @@ header {
     background-color: black;
     color: white;
     text-align: center;
- 
+
 }
 
 header>h1 {
@@ -50,12 +50,14 @@ section {
     line-height: 2em;
     padding: 10px;
 }
+
 section.normal {
     width: 100%;
     background-color: rgb(253, 221, 247);
     padding: 30px;
-    
+
 }
+
 section.imagem {
     width: 100%;
     background-color: rgba(201, 14, 154, 0.712);
@@ -84,8 +86,9 @@ section.imagem>p {
     padding-bottom: 1em;
     text-shadow: 2px 2px 0px black;
     background-size: cover;
-    
+
 }
+
 a {
     color: white;
     text-decoration: none;
@@ -95,16 +98,18 @@ a {
 a:hover {
     text-decoration: underline;
 }
+
 footer {
     padding: 0%;
     margin: 0%;
 }
-footer >p{
+
+footer>p {
     padding: 1px;
     font-size: 1em;
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(121, 14, 14);
     text-align: center;
     color: white;
-    
+
 }
